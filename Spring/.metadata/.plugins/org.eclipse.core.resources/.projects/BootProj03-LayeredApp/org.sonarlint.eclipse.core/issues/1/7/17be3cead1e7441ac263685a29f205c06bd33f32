@@ -1,0 +1,6 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8§√ö Û1b bb1c3f2ea781263d3a2bb92b06a2061fh
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8§√ö Û1b 0132ec8cee01c5dd244e1a60fe6448a1h
+ó
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".8§√ö Û1b ad6449d3e292e2eea5831de8c4e6890fh

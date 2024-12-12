@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootProj01-jpa-oracle&apos; to &apos;BootDataJpaProj1CrudRepositoryApplication&apos;" description="Rename resource &apos;BootProj01-jpa-oracle&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BootProj01-jpa-oracle" name="BootDataJpaProj1CrudRepositoryApplication" stamp="1716965884580" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.nt.factory.BIkeFactory.java&apos; to &apos;BikeFactory.java&apos;&#x0D;&#x0A;- Original project: &apos;CoreJavaProj03-FactoryPattern&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.factory.BIkeFactory.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nt.factory.BikeFactory.java&apos;" description="Rename compilation unit &apos;BIkeFactory.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.nt.factory{BIkeFactory.java" name="BikeFactory.java" references="false" stamp="1712546788943" version="1.0"/>
+</session>

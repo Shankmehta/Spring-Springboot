@@ -1,0 +1,4 @@
+127.0.0.1 - - [02/Oct/2024:15:00:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Oct/2024:15:00:42 +0530] "GET /BootMVCProj07-MiniProject-CurdOperation/ HTTP/1.1" 200 499
+0:0:0:0:0:0:0:1 - - [02/Oct/2024:15:00:42 +0530] "GET /BootMVCProj07-MiniProject-CurdOperation/images/report-icon.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Oct/2024:15:00:42 +0530] "GET /favicon.ico HTTP/1.1" 404 762

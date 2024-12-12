@@ -1,0 +1,5 @@
+
+—
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".8µ•‡Êó1b 0ace8c39aa1fa0f5571be6564f067760h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8µ•‡Êó1b 0132ec8cee01c5dd244e1a60fe6448a1h

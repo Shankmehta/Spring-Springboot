@@ -1,0 +1,8 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8Ф«рял1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e
+java:S1197"*Move the array designators [] to the type.8Ф«рял1b 347cff9ae55affe8afd6326c223f6950h
+e
+java:S1197"*Move the array designators [] to the type.8Ф«рял1b 217c8c7f9700cf8a271b80779b2dfb4dh
+Y
+java:S2119"Save and re-use this "Random".8Ф«рял1b 64663f4646781c9c0110838b905daa23h

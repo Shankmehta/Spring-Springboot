@@ -1,0 +1,21 @@
+
+c
+java:S1128"/Remove this unused import 'java.util.Optional'.b 36b2b47c45feb274daab2613f5282eabh
+o	java:S125:"<This block of commented-out lines of code should be removed.b 4e80621c0730e20330a7fcdb3ae58d27h
+^	java:S106V"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+o	java:S125?"<This block of commented-out lines of code should be removed.b cd3e975a0a1f30cb4a93665e11db8e80h
+o	java:S125+"<This block of commented-out lines of code should be removed.b a63999597fdc2a93bdf8ea4cf274c7bfh
+_
+java:S1128"+Remove this unused import 'java.util.List'.b 647165940d2971f696436f6a7da1f89dh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+a
+java:S1128"-Remove this unused import 'java.util.Arrays'.b 54e9e610d6bdce198c93f75733e99130h
+o	java:S125"<This block of commented-out lines of code should be removed.b be44399317a32d6b4ff381c4ad35b78eh
+o	java:S125<"<This block of commented-out lines of code should be removed.b d8f1c52801a53a9cba061c34c39ef8adh
+o	java:S125"<This block of commented-out lines of code should be removed.b 7eb47561ea26da774e0cf3fac17e882ch
+o	java:S125N"<This block of commented-out lines of code should be removed.b e9df37956e64d81c9769820c007b4e43h
+f
+java:S1128"2Remove this unused import 'com.nt.entity.Patient'.b 98f5e5e1af15d2680e0b104be45bf5a5h
+o	java:S125/"<This block of commented-out lines of code should be removed.b 81e6dc1520b6496582b2f11a8c61bf35h
+o	java:S125F"<This block of commented-out lines of code should be removed.b 7393e7522137a9579394c4604ad49437h

@@ -1,0 +1,5 @@
+127.0.0.1 - - [13/Sep/2024:14:02:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Sep/2024:14:02:58 +0530] "GET /BootMS-Proj04-ConsumerMS/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [13/Sep/2024:14:03:00 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Sep/2024:14:03:26 +0530] "GET /BootMS-Proj04-ConsumerMS/shopping/details HTTP/1.1" 500 287
+0:0:0:0:0:0:0:1 - - [13/Sep/2024:14:51:01 +0530] "GET /BootMS-Proj04-ConsumerMS/shopping/details HTTP/1.1" 500 287

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.nt.dependent.AppDate"/>
+    <fullyQualifiedTypeName name="com.nt.target.SeasonFinder"/>
+    <fullyQualifiedTypeName name="com.nt.dependent.AppWeek"/>
+    <fullyQualifiedTypeName name="com.nt.target.Weekend"/>
+    <fullyQualifiedTypeName name="com.nt.factory.BikeFactory"/>
+    <fullyQualifiedTypeName name="com.nt.factory.FlipkartFactory"/>
+    <fullyQualifiedTypeName name="com.nt.comps.Flipkart"/>
+    <fullyQualifiedTypeName name="com.nt.config.AppConfig"/>
+    <fullyQualifiedTypeName name="com.nt.cfgs.AppConfig"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Flipkart"/>
+    <fullyQualifiedTypeName name="com.nt.ston.Printer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.SeasonFinder"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+    <fullyQualifiedTypeName name="com.nt.controller.PayrollOperationsController"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Vehicle"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Hotel"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Employee"/>
+    <fullyQualifiedTypeName name="com.nt.service.IDoctorService"/>
+    <fullyQualifiedTypeName name="org.hibernate.jpa.boot.spi.EntityManagerFactoryBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.jdbc.DataSourceBuilder"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="lombok.NonNull"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.DiscoveryClient"/>
+    <fullyQualifiedTypeName name="com.nt.client.BillingServiceRestConsumer"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+</qualifiedTypeNameHistroy>

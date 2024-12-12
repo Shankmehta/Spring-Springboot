@@ -1,0 +1,13 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8ôŒÕôë1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e
+java:S1197"*Move the array designators [] to the type.8ôŒÕôë1b 347cff9ae55affe8afd6326c223f6950h
+e
+java:S1197"*Move the array designators [] to the type.8ôŒÕôë1b 217c8c7f9700cf8a271b80779b2dfb4dh
+e	java:S106"+Replace this use of System.out by a logger.8ôŒÕôë1b bb1c3f2ea781263d3a2bb92b06a2061fh
+Y
+java:S2119 "Save and re-use this "Random".8ôŒÕôë1b 64663f4646781c9c0110838b905daa23h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8ñúõë1b 0132ec8cee01c5dd244e1a60fe6448a1h
+
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.8‚á‡öë1b 1a4fa77a8c583d88ad13387dacd2d87ah

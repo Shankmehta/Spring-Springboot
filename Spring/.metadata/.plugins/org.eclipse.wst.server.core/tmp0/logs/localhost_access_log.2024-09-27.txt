@@ -1,0 +1,6 @@
+127.0.0.1 - - [27/Sep/2024:12:11:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Sep/2024:12:11:38 +0530] "GET /BootMVCProj07-MiniProject-CurdOperation/ HTTP/1.1" 200 499
+0:0:0:0:0:0:0:1 - - [27/Sep/2024:12:11:39 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [27/Sep/2024:12:38:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Sep/2024:12:38:06 +0530] "GET /BootMVCProj06-DataBinding/ HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [27/Sep/2024:12:38:12 +0530] "GET /BootMVCProj06-DataBinding/register HTTP/1.1" 200 692

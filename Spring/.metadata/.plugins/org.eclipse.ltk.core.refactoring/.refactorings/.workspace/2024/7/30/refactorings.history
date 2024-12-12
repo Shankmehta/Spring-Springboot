@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootDataJPA-MultipleDataSources-1&apos; to &apos;BootMVCProj01-FirstApp&apos;" description="Rename resource &apos;BootDataJPA-MultipleDataSources-1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BootDataJPA-MultipleDataSources-1" name="BootMVCProj01-FirstApp" stamp="1721789400904" updateReferences="true"/>
+</session>

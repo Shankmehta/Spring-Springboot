@@ -1,0 +1,6 @@
+cust:
+  info:
+    custno: 101
+    custname: raja
+    custaddrs: hyd
+    billamt: 5678.44

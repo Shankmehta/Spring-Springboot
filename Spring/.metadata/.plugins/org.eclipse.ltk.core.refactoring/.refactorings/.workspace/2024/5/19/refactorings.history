@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootProj04-ValueAnnotation-SPEL&apos; to &apos;BootProj06-ValueAnnotation-SPEL&apos;" description="Rename resource &apos;BootProj04-ValueAnnotation-SPEL&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BootProj04-ValueAnnotation-SPEL" name="BootProj06-ValueAnnotation-SPEL" stamp="1715252751549" updateReferences="true"/>
+</session>

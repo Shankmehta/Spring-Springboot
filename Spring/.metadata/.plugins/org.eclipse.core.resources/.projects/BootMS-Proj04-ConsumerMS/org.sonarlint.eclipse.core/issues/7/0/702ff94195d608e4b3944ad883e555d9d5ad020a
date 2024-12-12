@@ -1,0 +1,7 @@
+
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8·á³Òž2b 0132ec8cee01c5dd244e1a60fe6448a1h
+Y
+java:S2119"Save and re-use this "Random".8·á³Òž2b 64663f4646781c9c0110838b905daa23h
+”
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").8·á³Òž2b a4f5c9920c2235bcf03341de5d2e2d58h

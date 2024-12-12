@@ -1,0 +1,7 @@
+127.0.0.1 - - [29/Jul/2024:17:57:56 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:58:02 +0530] "GET /BootMVCProj06-DataBinding/ HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:58:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:58:06 +0530] "GET /BootMVCProj06-DataBinding/register HTTP/1.1" 200 692
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:59:39 +0530] "POST /BootMVCProj06-DataBinding/register HTTP/1.1" 200 116
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:59:45 +0530] "GET /BootMVCProj06-DataBinding/ HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:18:20:27 +0530] "GET /BootMVCProj06-DataBinding/register HTTP/1.1" 200 692

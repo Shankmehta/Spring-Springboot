@@ -1,0 +1,18 @@
+org:
+  nit:
+    eno: 101
+    ename: rajesh
+    favColors[0]: red
+    favColors[1]: green
+    favColors[2]: blue
+    nickNames: bunty,chunty,chotu
+    phoneNumbers: 999999,888888,7777777
+    idDetails:
+      aadharid: AASD746SJF
+      voterid: DSJDHD48455
+      passportno: ISJDJ345JD
+    company:
+      id: 1456
+      name: HCL
+      addrs: Blore
+      size: 100000

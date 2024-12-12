@@ -1,0 +1,7 @@
+
+
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8¤λύν1b 76425f17a58d9249cadacc9a27771a80h
+Τ
+java:S6548"A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.8¤λύν1b 37fe93164a9c7b7622bab12c349b98c8h
+e	java:S106	"+Replace this use of System.out by a logger.8¤λύν1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8¤λύν1b bb1c3f2ea781263d3a2bb92b06a2061fh

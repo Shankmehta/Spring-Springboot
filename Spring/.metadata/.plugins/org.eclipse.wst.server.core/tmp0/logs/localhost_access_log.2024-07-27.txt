@@ -1,0 +1,15 @@
+127.0.0.1 - - [27/Jul/2024:13:11:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:13:11:53 +0530] "GET /BootMVCProj01-FirstApp/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:13:11:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:13:12:03 +0530] "GET /BootMVCProj01-FirstApp/process HTTP/1.1" 200 43
+127.0.0.1 - - [27/Jul/2024:13:48:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:13:48:43 +0530] "GET /BootMVCProj01-FirstApp/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:13:49:01 +0530] "GET /BootMVCProj01-FirstApp/process HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:13:50:14 +0530] "GET /BootMVCProj01-FirstApp/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:13:50:20 +0530] "GET /BootMVCProj01-FirstApp/process HTTP/1.1" 200 310
+127.0.0.1 - - [27/Jul/2024:14:18:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:14:18:03 +0530] "GET /BootMVCProj01-FirstApp/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:14:18:20 +0530] "GET /BootMVCProj01-FirstApp/process HTTP/1.1" 500 287
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:14:18:29 +0530] "GET /BootMVCProj01-FirstApp/process HTTP/1.1" 500 287
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:14:18:30 +0530] "GET /BootMVCProj01-FirstApp/process HTTP/1.1" 500 287
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:14:18:30 +0530] "GET /BootMVCProj01-FirstApp/process HTTP/1.1" 500 287

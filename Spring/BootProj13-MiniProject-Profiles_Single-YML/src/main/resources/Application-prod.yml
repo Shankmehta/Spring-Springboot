@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    username: MAHAKAL
+    password: SHANKU
+    hikari:
+      maximum-pool-size: 100
+      minimum-idle: 10
+      keepalive-time: 100000
+    type: com.zaxxer.hikari.HikariDataSource

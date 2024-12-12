@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;BootJpaProj06-CallingPL-SQLPRocedure_Oracle&apos;" deleteContents="true" description="Delete resource &apos;BootJpaProj06-CallingPL-SQLPRocedure_Oracle&apos;" element1="/BootJpaProj06-CallingPL-SQLPRocedure_Oracle" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1718363441832"/>
+</session>
